@@ -1,0 +1,73 @@
+h1{
+
+    font-size: 24px;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+#bandeja{
+    display: flex;
+    justify-content: center;
+}
+
+body{
+    background-color: #f3f4f5;
+}
+
+#parra{
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #757575;
+
+}
+.imagen{
+    width: 250px;
+    height: 250px;
+    margin-right: 40px;
+}
+
+#imagenconte{
+    display: flex;
+    justify-content: center;
+}
+
+#iman{
+    display: flex;
+    justify-content: center;
+}
+
+#video{
+    display: flex;
+    justify-content: center;
+    
+}
+
+#imagenprin{
+    display: flex;
+    justify-content: center;
+}
+
+#ingre{
+    width: 250px;
+    height: 250px;
+    margin-right: 90px;
+}
+ 
+#conteingre{
+    display: flex;
+    justify-content: center;
+
+}
+
+#senecesitan{
+    display: flex;
+    justify-content: center;
+}
+
+#elexito{
+    display: flex;
+    justify-content: center;
+}
+footer {
+    display: flex;
+    justify-content: center;
+  }
